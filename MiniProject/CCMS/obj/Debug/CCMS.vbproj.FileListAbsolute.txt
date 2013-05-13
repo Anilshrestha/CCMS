@@ -1,0 +1,10 @@
+E:\CCMS\CCMS\bin\CCMS.dll
+E:\CCMS\CCMS\bin\CCMS.pdb
+E:\CCMS\CCMS\bin\CCMS.xml
+E:\CCMS\CCMS\obj\Debug\ResolveAssemblyReference.cache
+E:\CCMS\CCMS\obj\Debug\CCMS.Resources.resources
+E:\CCMS\CCMS\obj\Debug\GenerateResource.read.1.tlog
+E:\CCMS\CCMS\obj\Debug\GenerateResource.write.1.tlog
+E:\CCMS\CCMS\obj\Debug\CCMS.dll
+E:\CCMS\CCMS\obj\Debug\CCMS.xml
+E:\CCMS\CCMS\obj\Debug\CCMS.pdb
