@@ -13,5 +13,19 @@ namespace CCMS
         {
 
         }
+
+        protected void btnLogin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void Login1_Authenticate(object sender, AuthenticateEventArgs e)
+        {
+
+        }
+
+        
+
+      
     }
 }
