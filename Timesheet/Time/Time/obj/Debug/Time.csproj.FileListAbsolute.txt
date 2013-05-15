@@ -1,0 +1,5 @@
+C:\Users\tpshiba\Desktop\C#\Timesheet\Time\Time\bin\Time.dll
+C:\Users\tpshiba\Desktop\C#\Timesheet\Time\Time\bin\Time.pdb
+C:\Users\tpshiba\Desktop\C#\Timesheet\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+C:\Users\tpshiba\Desktop\C#\Timesheet\Time\Time\obj\Debug\Time.dll
+C:\Users\tpshiba\Desktop\C#\Timesheet\Time\Time\obj\Debug\Time.pdb
