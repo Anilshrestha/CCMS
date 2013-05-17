@@ -1,0 +1,5 @@
+D:\CCMS\CCMS\bin\CCMS.dll
+D:\CCMS\CCMS\bin\CCMS.pdb
+D:\CCMS\CCMS\obj\Debug\CCMS.csprojResolveAssemblyReference.cache
+D:\CCMS\CCMS\obj\Debug\CCMS.dll
+D:\CCMS\CCMS\obj\Debug\CCMS.pdb
